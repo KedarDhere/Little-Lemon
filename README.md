@@ -24,13 +24,13 @@ Ensure you have Python 3 installed on your system. You can download it from [pyt
 1. Clone the GitHub repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/little-lemon.git
+git clone https://github.com/KedarDhere/Little-Lemon.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd little-lemon-restaurant
+cd Little-Lemon
 ```
 
 ### Running the Application
